@@ -2,13 +2,16 @@
 
 ![alt text](http://stefancoding.com/images-for-web/stefancoding.jpg)
 
+:mega: “I'm not a great programmer; I'm just a good programmer with great habits.” <br>
+:camera: Portfolio: stefancoding.com <br>
+:email: How to reach me: stefancoding7@gmail.com
 <hr>
 
 # A little about me...
 ```javascript
   const profile = {
     code: [Javascript, HTML, CSS, PHP, MYSQL],
-    tools: [React, Node, Express, Jest, Jade, Sequelize, Laravel, Vue.js],
+    tools: [React, Node, Jest, Jade, Sequelize, Laravel, Vue.js],
   }
 ```
 
