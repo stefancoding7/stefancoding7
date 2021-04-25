@@ -8,7 +8,7 @@
 ```javascript
   const profile = {
     code: [Javascript, HTML, CSS, PHP, MYSQL],
-    tools: [React, Node, Jest, Jade, Sequelize, Laravel, Vue.js],
+    tools: [React, Node, Express, Jest, Jade, Sequelize, Laravel, Vue.js],
   }
 ```
 
