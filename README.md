@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+![alt text](http://stefancoding.com/images-for-web/stefancoding.jpg)
+
+<hr>
+
+# A little about me...
+```javascript
+  const profile = {
+    code: [Javascript, HTML, CSS, PHP, MYSQL],
+    tools: [React, Node, Jest, Jade, Sequelize, Laravel, Vue.js],
+  }
+```
+
+
 <!--
 **stefancoding7/stefancoding7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
