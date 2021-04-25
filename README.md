@@ -2,7 +2,7 @@
 
 ![alt text](http://stefancoding.com/images-for-web/stefancoding.jpg)
 
-# :mega: “I'm not a great programmer; I'm just a good programmer with great habits.” <br>
+:mega: “I'm not a great programmer; I'm just a good programmer with great habits.” <br>
 :camera: Portfolio: stefancoding.com <br>
 :email: How to reach me: stefancoding7@gmail.com
 <hr>
