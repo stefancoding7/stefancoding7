@@ -11,7 +11,7 @@
 ```javascript
   const profile = {
     code: [Javascript, HTML, CSS, PHP, MYSQL],
-    tools: [React, Node, Jest, Jade, Sequelize, Laravel, Vue.js],
+    tools: [React, Node, Jest, Jade, Sequelize, Socket.io, Laravel, Vue.js],
   }
 ```
 
