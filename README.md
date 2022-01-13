@@ -3,8 +3,8 @@
 ![alt text](https://stefancoding.com/images_for_web/header.jpg)
 
 :mega: “I'm not a great programmer; I'm just a good programmer with great habits.” <br>
-:camera: Portfolio: http://stefancoding.com <br>
-:email: How to reach me: stefancoding7@gmail.com
+:camera: Portfolio: https://stefancoding.com <br>
+:email: How to reach me: stefan.caky777@gmail.com
 <hr>
 
 # A little about me...
