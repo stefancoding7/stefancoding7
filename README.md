@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](http://stefancoding.com/images-for-web/stefancoding.jpg)
+![alt text](https://stefancoding.com/images_for_web/header.jpg)
 
 :mega: “I'm not a great programmer; I'm just a good programmer with great habits.” <br>
 :camera: Portfolio: http://stefancoding.com <br>
